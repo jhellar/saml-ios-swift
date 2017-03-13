@@ -28,6 +28,16 @@
       selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
       shouldUseLaunchSchemeArgsEnv = "YES">
       <Testables>
+         <TestableReference
+            skipped = "NO">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "88ECC8251E76A0EF00B8D7A0"
+               BuildableName = "saml-ios-swiftUITests.xctest"
+               BlueprintName = "saml-ios-swiftUITests"
+               ReferencedContainer = "container:saml-ios-swift.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
       </Testables>
       <MacroExpansion>
          <BuildableReference
